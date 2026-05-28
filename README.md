@@ -1,5 +1,8 @@
-## Hi there 👋
+Hi, I'm Lennox (not Linux) :)
 
+- Systems Design Engineering @Waterloo
+- Love building with a people oriented focus
+- Passionate about creating tech with real impact
 <!--
 **Lennoxep/Lennoxep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
